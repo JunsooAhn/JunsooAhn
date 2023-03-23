@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JunsooAhn&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://opgc.me/#/users/leebonggu" target="_blank"><img src="https://api.opgc.me/githubs/users/leebonggu/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/junsooahn" target="_blank"><img src="https://api.opgc.me/githubs/users/junsooahn/tag/?theme=basic" /></a>
 
 <br/>
 
