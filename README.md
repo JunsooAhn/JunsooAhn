@@ -1,3 +1,4 @@
 
-![JunsooAhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunsooAhn&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunsooAhn)](https://github.com/anuraghazra/github-readme-stats)
+![JunsooAhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunsooAhn&count_private=true&theme=Gradient)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunsooAhn&layout=compact)](https://github.com/JunsooAhn/github-readme-stats)
